@@ -3,7 +3,7 @@
 </head>
 
 
-## Hi, I'm Botchia-Erika 🖖
+## Hi, I'm Botechia-Erika 🖖
 ----
 A code enthusiastic in learning road-map...
 - 👀 I’m interested in node.js phyton and node ...
