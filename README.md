@@ -9,7 +9,7 @@ A code enthusiastic in learning road-map...
 - 👀 I’m interested in node.js phyton and node ...
 - 🌱 I’m currently code in labenu and start learning testing in codo-a-codo arg
 - 📫 How to reach me mendoncabotechia@proton.me or botechiaeri@gmail.com
-- ✅ Fullstack Codo-a-Codo (ARG) 
+
 
 
 ##Numbers
