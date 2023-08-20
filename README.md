@@ -24,6 +24,9 @@ A code enthusiastic in learning road-map...
     srcset="https://github-readme-stats.vercel.app/api?username=botechia-erika&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=botechia-erika&theme=monokai)](https://git.io/streak-stats)
+
   <img src="https://github-readme-stats.vercel.app/api?username=botechia-erika&show_icons=true" />
 </picture>
 <div style="display: inline_block"><br>
