@@ -7,7 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=botechia-erika" alt="botechia-erika" /></a> </p>
 - 🌱 I’m currently improve skills of **Node, Python Typescript and React**
 
-- 👨‍💻 I'm in process of remake the repositories, you can see a better partial result of my work on [https://gitlab.com/botechia-erika](https://gitlab.com/botechia-erika)
 
 - 💬 Ask me about **something, if i don`t know the answer i will search and maybe can learn a new thing on colab mode.**
 
